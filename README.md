@@ -16,12 +16,14 @@
 - [Как работает Linux](https://www.youtube.com/playlist?list=PLHHm04DXWzeKZycf_ZuBgxWdVBnrjE_mj)
 - [Внутреннее устройство Linux](https://www.youtube.com/playlist?list=PLHHm04DXWzeJWTXiM9zIM6whZfW7o0EZq)
 - [Как работает DNS](https://www.youtube.com/playlist?list=PLHHm04DXWzeLQ4eDTSxq4-lexBoejoICy)
+- [Управление WEB-сервером apache в Linux](https://www.youtube.com/playlist?list=PLHHm04DXWzeIRmu0gIdSD438Ljhfb7ZWN)
+- [Управление DNS-сервером bind в Linux](https://www.youtube.com/playlist?list=PLHHm04DXWzeLoBbEVnai2WIoWhhTIX2Oo)
 - [Профессиональная переподготовка](https://hse.spbstu.ru/retraining/)
 
 # UIC – Chris Kanich
 - [CS361 Systems Programming](https://www.youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP) (in addition to [CSAPP-2016](https://github.com/yaraslau-h/learning-library/blob/main/CSAPP-2016.pdf))
-- [CS484 Secure Web App Dev](https://youtube.com/playlist?list=PLhy9gU5W1fvVzUp2rumzEFwG71mEPLrBt)
-- [CS484 Secure Web Application Development at UIC](https://484.cs.uic.edu/)
+- [CS484 Secure Web App Dev - playlist](https://youtube.com/playlist?list=PLhy9gU5W1fvVzUp2rumzEFwG71mEPLrBt)
+- [CS484 Secure Web Application Development at UIC - webpage](https://484.cs.uic.edu/)
 
 # USNA – Dr. Christopher W. Brown
 - [C. W. Brown's classes](https://www.usna.edu/Users/cs/wcbrown/teaching/Teaching.html)
