@@ -29,6 +29,16 @@
 - [C. W. Brown's classes](https://www.usna.edu/Users/cs/wcbrown/teaching/Teaching.html)
 - [IC221 - Systems Programming, Spring 2010](https://www.usna.edu/Users/cs/wcbrown/courses/S10IC221/Calendar.html#April2010)
 
+# Harvard University
+- [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+- [CS50's Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript)
+- [Using Python for Research](https://pll.harvard.edu/course/using-python-research)
+- [CS50's Introduction to Programming with Python](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
+- [CS50's Introduction to Databases with SQL](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
+- [CS50's Web Programming with Python and JavaScript (CS50W)](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
+- [CS50's Introduction to Artificial Intelligence with Python 2023](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm)
+- [CS50's Introduction to Cybersecurity](https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE)
+
 # Learn Linux TV
 - [Linux Commands for Beginners](https://youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ)
 
