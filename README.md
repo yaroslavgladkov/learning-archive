@@ -27,6 +27,7 @@
 
 # USNA – Dr. Christopher W. Brown
 - [C. W. Brown's classes](https://www.usna.edu/Users/cs/wcbrown/teaching/Teaching.html)
+- [SI413:	Programming Languages, Fall 2020 (AY2021)](https://www.usna.edu/Users/cs/wcbrown/courses/F20SI413/)
 - [IC221 - Systems Programming, Spring 2010](https://www.usna.edu/Users/cs/wcbrown/courses/S10IC221/Calendar.html#April2010)
 
 # Harvard University
